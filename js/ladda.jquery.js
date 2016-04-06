@@ -42,5 +42,5 @@
 
 			return this;
 		}
-	});	
-}( this.Ladda, this.jQuery ));
+	});
+}( this.Ladda, this.ORBEON.jQuery ));
